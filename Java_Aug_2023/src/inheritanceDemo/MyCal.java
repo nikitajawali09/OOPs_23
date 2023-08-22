@@ -11,7 +11,6 @@ class Calculation {
 		int z = x + y;
 		System.out.println("Addition --> Calculation :" + z + b);
 	}
-
 }
 
 public class MyCal extends Calculation {
