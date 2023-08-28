@@ -10,6 +10,7 @@ public class ArrayListProblem extends Thread {
 		courses.add("Kubernates");
 	}
 
+	
 	public static void main(String[] args) throws InterruptedException {
 
 		ArrayListProblem b = new ArrayListProblem();

@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.concurrent.CopyOnWriteArrayList;
 
 public class ConcurrentDemo {
+	
 
 	//to avoid issues after iteration add/remove elements
 	public static void main(String[] args) {
